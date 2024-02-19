@@ -3,7 +3,7 @@ const QRPortalWeb = require('@bot-whatsapp/portal')
 const BaileysProvider = require('@bot-whatsapp/provider/baileys')
 const MockAdapter = require('@bot-whatsapp/database/mock')
 const flowSecundario = addKeyword(['0', 'avt']).addAnswer(['🛎️Espera un momento por favor...⏳',
-'Un asistente en línea 👨🏻‍💻 se comunicará contigo',
+'\nUn asistente en línea 👨🏻‍💻 se comunicará contigo',
 '\n*cbt* para regresar al menu principal'])
 
 
